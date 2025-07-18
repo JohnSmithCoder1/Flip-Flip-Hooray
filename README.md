@@ -1,6 +1,6 @@
 # Flip-Flip-Hooray
 
-Toddle Time is a free memory card game to help toddlers and kids improve their focus and critical thinking while having fun! Choose between animals, foods, and shapes, as well as card color. You can even choose the number of cards for a bigger challenge! No ads, no in-app purchases, no sign-up.
+Flip Flip Hooray is a free memory card game to help toddlers and kids improve their focus and critical thinking while having fun! Choose between animals, foods, and shapes, as well as card color. You can even choose the number of cards for a bigger challenge! No ads, no in-app purchases, no sign-up.
 
 ## Apple App Store ID
 
