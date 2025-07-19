@@ -1,9 +1,9 @@
 # Flip-Flip-Hooray
 
-<img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/Apple%20iPhone%2011%20Pro%20Max%20(0).png" width="160"> 
-<img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/Apple%20iPhone%2011%20Pro%20Max%20(0).png" width="160"> 
-<img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/Apple%20iPhone%2011%20Pro%20Max%20(0).png" width="160"> 
-<img src="https://github.com/JohnSmithCoder1/WorkoutForge/blob/main/Screenshots/Apple%20iPhone%2011%20Pro%20Max%20(0).png" width="160">
+<img src="https://github.com/JohnSmithCoder1/Flip-Flip-Hooray/blob/main/Screenshots/screenshot_1.png" width="200"> <img 
+src="https://github.com/JohnSmithCoder1/Flip-Flip-Hooray/blob/main/Screenshots/screenshot_2.png" width="200"> 
+<img src="https://github.com/JohnSmithCoder1/Flip-Flip-Hooray/blob/main/Screenshots/screenshot_3.png" width="200"> 
+<img src="https://github.com/JohnSmithCoder1/Flip-Flip-Hooray/blob/main/Screenshots/screenshot_4.png" width="200">
 
 Designed for toddlers and preschoolers, Flip Flip Hooray is a memory matching game that helps little ones learn shapes, animals, and foods through fun and engaging play.
 
