@@ -10,7 +10,7 @@ Designed for toddlers and preschoolers, Flip Flip Hooray is a memory matching ga
 Perfect for ages 2 to 8+, this simple, kid-friendly app builds early memory skills, improves focus, and encourages visual recognition — all while having fun!
 
 Why Kids (and Parents) Love It:
-* 3 game themes: animals, foods, and shapes
+* 4 game themes: shapes, animals, foods, and all
 * Adjustable difficulty for ages 2 to 8+
 * Kid-safe design with no ads or confusing menus
 * Colorful art and sounds to keep kids engaged
