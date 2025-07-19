@@ -11,7 +11,7 @@ Perfect for ages 2 to 8+, this simple, kid-friendly app builds early memory skil
 
 Why Kids (and Parents) Love It:
 * 3 game themes: animals, foods, and shapes
-* Adjustable difficulty for ages 1–8 and beyond
+* Adjustable difficulty for ages 2–8+
 * Kid-safe design with no ads or confusing menus
 * Colorful art and sounds to keep kids engaged
 * Supports early learning and cognitive development
