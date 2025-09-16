@@ -17,7 +17,7 @@ Why families love it
 * Early learning support: match each pair to strengthen recall and attention
 
 Made for little learners
-Created for toddlers and preschoolers with support for kindergarten ages too. With simple interactions and playful feedback, it’s easy for little fingers to play on their own—or together with a grown-up.
+* Created for toddlers and preschoolers with support for kindergarten ages too. With simple interactions and playful feedback, it’s easy for little fingers to play on their own—or together with a grown-up.
 
 No ads. No in-app purchases. No sign-up. Just fun learning.
 
